@@ -1,5 +1,8 @@
 # LifetimeKata
 
+> [!NOTE]
+> This is my (BionicMushroom's) fork of [LifetimeKata](https://github.com/tfpk/lifetimekata). It contains my solutions to the provided exercises. Before you look at the solutions, have a go at solving the exercises by yourself!
+
 Welcome to LifetimeKata, a set of exercises which you can use to improve your
 understanding of lifetimes in Rust. While many tasks involve writing compiling
 code, some will also involve creating specific errors.
